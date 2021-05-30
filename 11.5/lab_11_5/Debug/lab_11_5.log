@@ -1,0 +1,9 @@
+﻿  lab_11_5.cpp
+C:\Users\Arsen\source\repos\lab_11_5\lab_11_5\lab_11_5.cpp(44,7): warning C4101: gname: неиспользованная локальная переменная
+C:\Users\Arsen\source\repos\lab_11_5\lab_11_5\lab_11_5.cpp(186,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\lab_11_5\lab_11_5\lab_11_5.cpp(221,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\lab_11_5\lab_11_5\lab_11_5.cpp(260,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\lab_11_5\lab_11_5\lab_11_5.cpp(264,10): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Arsen\source\repos\lab_11_5\lab_11_5\lab_11_5.cpp(292,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\lab_11_5\lab_11_5\lab_11_5.cpp(420,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  lab_11_5.vcxproj -> C:\Users\Arsen\source\repos\lab_11_5\Debug\lab_11_5.exe
